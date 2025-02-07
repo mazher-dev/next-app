@@ -20,4 +20,6 @@ export default async function Weather() {
       <p className="text-lg">Condition: {weather.current.condition.text}</p>
     </div>
   );
+  
+  
 }
