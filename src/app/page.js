@@ -11,5 +11,6 @@ export default function Home() {
       <Link href="/about">Go to About Page</Link> {/* Link to About page */}
       <Button text="Click Me" />
     </>
+    
   );
 }
